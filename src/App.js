@@ -28,7 +28,7 @@ function App() {
     <div className="App">
 
       <img src={larmf} className="larmf" alt="larmf" />
-      <h1>Larmf Baccarat</h1>
+      <h1>Baccarat</h1>
 
       <button onClick={handleDealClick}>Deal</button>
       <div id="handsDiv">
