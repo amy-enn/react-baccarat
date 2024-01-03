@@ -22,13 +22,12 @@ function App() {
   };
 
 
-
-
   return (
     <div className="App">
 
-      <img src={larmf} className="larmf" alt="larmf" />
       <h1>Baccarat</h1>
+      <p>featuring Spike the dealer</p>
+      <img src={larmf} className="larmf" alt="larmf" />
 
       <button onClick={handleDealClick}>Deal</button>
       <div id="handsDiv">
