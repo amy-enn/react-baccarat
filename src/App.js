@@ -1,4 +1,4 @@
-import larmf from './6210.png';
+import larmf from './images/6210.png';
 import { useState } from 'react';
 import './App.css';
 import { dealCards } from './baccarat';
